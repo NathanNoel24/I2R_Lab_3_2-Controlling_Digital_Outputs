@@ -1,6 +1,6 @@
 void setup() {
-pinMode(7, OUTPUT); //green
-pinMode(8, OUTPUT); //blue
+pinMode(7, OUTPUT); 
+pinMode(8, OUTPUT);
 
 digitalWrite(7, HIGH);
 delay(200);
